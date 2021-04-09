@@ -1,0 +1,14 @@
+---------------------------------------------------
+City name-->Chennai
+Temperature-->33.0
+Weather Description-->few clouds
+Wind speed-->5.66
+Date and time of the city-->09 Apr 2021 | 03:10:30 AM
+---------------------------------------------------
+---------------------------------------------------
+City name-->Bangalore
+Temperature-->32.06
+Weather Description-->few clouds
+Wind speed-->2.06
+Date and time of the city-->09 Apr 2021 | 03:10:42 AM
+---------------------------------------------------
